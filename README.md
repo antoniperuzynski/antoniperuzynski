@@ -15,7 +15,7 @@ Here are some info about me:
  📞 Contact to me: 
 
 <a href="https://www.linkedin.com/in/antoni-peru%C5%BCy%C5%84ski" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIN" height="40" width="40" /></a>
-<a href="mailto:antoni.peruzynski@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="antoni.peruzynski@gmail.com" height="40" width="40" /></a>
+<a href="mailto:antoni.peruzynski@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="antoni.peruzynski@gmail.com" height="50" width="50" /></a>
 
 
 <!--
